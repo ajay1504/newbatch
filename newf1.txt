@@ -1,0 +1,2 @@
+modifying file newf1 for git stash
+incomplete statement1
