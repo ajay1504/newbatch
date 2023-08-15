@@ -1,0 +1,13 @@
+{
+  "SftpUserEmail": "visteon.testing@simfoni.com",
+  "SftpUserPassword": "Lar41052",
+  "SmtpHost": "smtp.office365.com",
+  "SmtpPort": "587",
+  "SsleEnable": true,
+  "Email": "ravi.mishra@simfoni.com",
+  "DirectoryPath": "D:\\BACKUP\\New folder",
+  "Subdirectory": true,
+  "FileType": ""
+}
+
+ 
